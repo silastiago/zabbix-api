@@ -1,1 +1,1 @@
-# zabbix-api
+# Scripts in bash for query in api zabbix server
